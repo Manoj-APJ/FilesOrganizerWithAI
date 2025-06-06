@@ -70,3 +70,4 @@ A comprehensive application for organizing, analyzing, and annotating lecture no
 
 MIT"# project" 
 "# project" 
+"# FilesOrganizerWithAI" 
