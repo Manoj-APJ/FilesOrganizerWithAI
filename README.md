@@ -69,3 +69,4 @@ A comprehensive application for organizing, analyzing, and annotating lecture no
 ## License
 
 MIT"# project" 
+"# project" 
